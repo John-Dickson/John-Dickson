@@ -1,4 +1,12 @@
-### Hi there 👋
+I am a Junior Data Scientist, before getting started in Data Science I was a Linguist with experience in Language Education. In October 2022 I completed a certificate course with Practicum, and I am very passionate about making and tuning machine learning models. I have developed skills in various areas of Data Science, including: 
+- Data analysis and Visualisation using Python, Pandas, Numpy, and Seaborne
+- Machine learning using SKlearn, tensorflow, catboost, and others
+- Natural Langauge Processing
+- Image recognition and object detection
+<br></br>
+- I am looking to advance my career in Data Science
+- I am working on a personal project that combines Second Language Acquisition with Machine learning in a Unique way
+- 📫 How to reach me: www.linkedin.com/in/john-ashley-dickson/
 
 <!--
 **John-Dickson/John-Dickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
