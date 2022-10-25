@@ -7,6 +7,7 @@ I am a Junior Data Scientist, before getting started in Data Science I was a Lin
 - I am looking to advance my career in Data Science
 - I am working on a personal project that combines Second Language Acquisition with Machine learning in a Unique way
 - 📫 How to reach me: www.linkedin.com/in/john-ashley-dickson/
+- 📫 email: john.a.d500@gmail.com
 
 <!--
 **John-Dickson/John-Dickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
